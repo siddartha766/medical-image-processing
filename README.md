@@ -1,6 +1,7 @@
 # Medical Image Processing using OpenCV
 
-This project demonstrates a basic medical image processing pipeline applied to chest X-ray images using Python and OpenCV.
+## 📌 Overview
+This project implements a basic medical image processing pipeline on chest X-ray images to demonstrate preprocessing and feature extraction techniques.
 
 ## 🔧 Techniques Implemented
 - Grayscale Conversion
